@@ -1,0 +1,13 @@
+langchain
+langchain-community
+langchain-weaviate
+langchain-core
+langchain-huggingface
+langchain_mistralai
+langgraph
+weaviate-client
+python-dotenv
+fastapi
+uvicorn[standard]
+PyMuPDF
+pymupdf4llm
